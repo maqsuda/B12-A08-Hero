@@ -6,7 +6,7 @@ const BuiltForYou = () => {
       <h1 className="text-2xl md:text-5xl pt-20 text-center font-bold">
         Trusted by Millions, Built for You
       </h1>
-      <div className="pt-10 flex   justify-center items-center ">
+      <div className="pt-10 flex flex-col md:flex-row  justify-center items-center ">
         <div className="md:p-5 text-center ">
           <p className="text-xs text-gray-300">Total Downloads</p>
           <h3 className="text-5xl font-bold py-5">29.6M</h3>
