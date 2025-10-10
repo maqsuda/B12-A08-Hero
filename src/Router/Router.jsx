@@ -5,8 +5,10 @@ import Home from "../Components/Home/Home";
 import AllApp from "../Components/AppApps/AllApp";
 import Installation from "../Components/Installation/Installation";
 import { Suspense } from "react";
+import TrendingApps from "../Pages/TrendingApps/TrendingApps";
 
 const allAppPromise = fetch("/heroData.json").then((res) => res.json());
+// const trendingPromise = fetch("/herodata8.json").then((res) => res.json());
 
 export const router = createBrowserRouter([
   {
@@ -30,7 +32,19 @@ export const router = createBrowserRouter([
           </Suspense>
         ),
       },
-      { path: "/installation", Component: Installation },
+      // { path: "/installation", Component: Installation },
+      // {
+      //   path: "/",
+      //   element: (
+      //     <Suspense
+      //       fallback={
+      //         <span className="loading loading-bars loading-xl text-primary "></span>
+      //       }
+      //     >
+      //       <TrendingApps trendingPromise={trendingPromise}></TrendingApps>
+      //     </Suspense>
+      //   ),
+      // },
     ],
   },
 ]);

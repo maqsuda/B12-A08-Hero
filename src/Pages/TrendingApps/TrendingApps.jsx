@@ -1,13 +1,15 @@
-import React, { Suspense } from "react";
+import { useEffect, useState } from "react";
 import TrendingApp from "./TrendingApp";
+import { Link } from "react-router";
 
 const TrendingApps = () => {
-  //   useEffect( fetch("/heroData8.json")
-  // .then(res => res.json())
-  // .then(data=>console.log(data)));
+  const [trendingData, setTrendingData] = useState([]);
 
-  //  const allAppData = use(allAppPromise);
-  //   console.log(allAppData.length);
+  useEffect(() => {
+    fetch("/herodata8.json")
+      .then((res) => res.json())
+      .then((data) => setTrendingData(data));
+  }, []);
 
   return (
     <div className="pt-10 text-center bg-[#f1f5e8]">
@@ -17,9 +19,16 @@ const TrendingApps = () => {
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
-        {/* {allAppData.map((app) => (
-          <App key={app.id} app={app}></App>
-        ))} */}
+        {trendingData.map((app) => (
+          <TrendingApp key={app.id} app={app}></TrendingApp>
+        ))}
+      </div>
+      <div>
+        <Link to="/allApp">
+          <button className="text-center my-10 gap-2 py-2 px-5 rounded-md bg-linear-to-r from-[#632ee3] to-[#9f62f2]  text-white pmt-5">
+            Show All
+          </button>
+        </Link>
       </div>
     </div>
   );

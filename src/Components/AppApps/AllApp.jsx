@@ -1,13 +1,9 @@
 import React, { use } from "react";
 import { CiSearch } from "react-icons/ci";
 import App from "../App/App";
-// import { useLoaderData } from "react-router";
 
 const AllApp = ({ allAppPromise }) => {
-  //   const data = useLoaderData();
-  //   console.log(data);
   const allAppData = use(allAppPromise);
-  console.log(allAppData.length);
 
   return (
     <div className="mx-auto ml-5">
