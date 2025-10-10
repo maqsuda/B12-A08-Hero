@@ -4,3 +4,9 @@ body {
   font-family: "Inter", sans-serif;
   font-weight: 400;
 }
+
+ul a.active {
+  text-decoration: underline;
+  color: #632ee3;
+  font-weight: bold;
+}

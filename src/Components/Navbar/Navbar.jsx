@@ -1,14 +1,18 @@
 import React from "react";
-import { Link } from "react-router";
+import { NavLink } from "react-router";
 import { FaGithub } from "react-icons/fa";
 import imageLogo from "/src/assets/logo.png";
 
 const Navbar = () => {
   const links = (
     <>
-      <Link className="mr-10">Home</Link>
-      <Link className="mr-10">Apps</Link>
-      <Link>Installation</Link>
+      <NavLink to="/" className="mr-10">
+        Home
+      </NavLink>
+      <NavLink to="/allApp" className="mr-10">
+        Apps
+      </NavLink>
+      <NavLink to="/installation">Installation</NavLink>
     </>
   );
   return (
@@ -48,14 +52,14 @@ const Navbar = () => {
         <ul className="menu menu-horizontal px-1">{links}</ul>
       </div>
       <div className="navbar-end flex">
-        <Link to="/">
+        <NavLink to="https://github.com/maqsuda?tab=repositories">
           <button className="flex items-center gap-2 py-2 px-5 rounded-md bg-linear-to-r from-[#632ee3] to-[#9f62f2]  text-white pmt-5">
             <span className="bg-[#9f62f2]">
               <FaGithub />
             </span>{" "}
             Contribution
           </button>
-        </Link>
+        </NavLink>
       </div>
     </div>
   );

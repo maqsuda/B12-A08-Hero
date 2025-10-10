@@ -2,6 +2,7 @@ import React from "react";
 import { FaGooglePlay } from "react-icons/fa";
 import { FaAppStoreIos } from "react-icons/fa";
 import imageHero from "/src/assets/hero.png";
+import { Link } from "react-router";
 const Banner = () => {
   return (
     <div className="bg-[#f7f0f0] mx-auto ">
@@ -16,20 +17,24 @@ const Banner = () => {
         an impact
       </p>
       <div className="flex justify-center pt-5 gap-5">
-        <button className="border-1 border-gray-400 flex gap-2 px-5 py-2 items-center">
-          <span className="text-[#47bcff]">
-            {" "}
-            <FaGooglePlay />
-          </span>
-          Google Play
-        </button>
+        <Link to="https://play.google.com/store/games?hl=en">
+          <button className="border-1 border-gray-400 flex gap-2 px-5 py-2 items-center">
+            <span className="text-[#47bcff]">
+              {" "}
+              <FaGooglePlay />
+            </span>
+            Google Play
+          </button>
+        </Link>
 
-        <button className="border-1 border-gray-400 flex gap-2 px-5 py-2 items-center">
-          <span className="text-[#0073f6]">
-            <FaAppStoreIos />
-          </span>
-          App Store
-        </button>
+        <Link to="https://www.apple.com/app-store/">
+          <button className="border-1 border-gray-400 flex gap-2 px-5 py-2 items-center">
+            <span className="text-[#0073f6]">
+              <FaAppStoreIos />
+            </span>
+            App Store
+          </button>
+        </Link>
       </div>
 
       <div className="flex justify-center pt-10 px-2">

@@ -1,5 +1,6 @@
 import React from "react";
 import imageLogo from "/src/assets/logo.png";
+import { NavLink } from "react-router";
 
 const Footer = () => {
   return (
@@ -13,9 +14,13 @@ const Footer = () => {
         </div>
 
         <div className="grid grid-flow-col gap-4">
-          <a className="link link-hover">Home</a>
-          <a className="link link-hover">Apps</a>
-          <a className="link link-hover">Installation</a>
+          <NavLink to="/" className="mr-10">
+            Home
+          </NavLink>
+          <NavLink to="/allApp" className="mr-10">
+            Apps
+          </NavLink>
+          <NavLink to="/installation">Installation</NavLink>
         </div>
         <div>
           <div className="grid grid-flow-col gap-4">

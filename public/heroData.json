@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://example.com/images/focus-timer.png",
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
     "title": "Focus Timer",
     "companyName": "Mindful Apps Inc.",
     "id": 1001,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/fitnow.png",
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
     "title": "FitNow",
     "companyName": "Healthify Co.",
     "id": 1002,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/candy-smash.png",
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
     "title": "Candy Smash Saga",
     "companyName": "Sweet Games Studio",
     "id": 1003,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/budget-pal.png",
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
     "title": "BudgetPal",
     "companyName": "FinTech World",
     "id": 1004,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/weatherlite.png",
+    "image": "https://i.ibb.co.com/pj67c6n0/demoApp5.webp",
     "title": "WeatherLite",
     "companyName": "SkyWatchers",
     "id": 1005,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/langloop.png",
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
     "title": "LangLoop",
     "companyName": "Eduverse Ltd.",
     "id": 1006,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/taskmaster.png",
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
     "title": "TaskMaster",
     "companyName": "Productive Labs",
     "id": 1007,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/nightnote.png",
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
     "title": "NightNote",
     "companyName": "DreamSoft Studios",
     "id": 1008,
@@ -145,7 +145,7 @@
   },
 
   {
-    "image": "https://example.com/images/meal-mate.png",
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
     "title": "Meal Mate",
     "companyName": "YumTech Inc.",
     "id": 2001,
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/step-counter.png",
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
     "title": "Step Counter Pro",
     "companyName": "MoveWell LLC",
     "id": 2002,
@@ -181,7 +181,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/pet-pal.png",
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
     "title": "PetPal",
     "companyName": "Furry Friends Co.",
     "id": 2003,
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/art-gallery.png",
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
     "title": "Art Gallery",
     "companyName": "Creative Visions",
     "id": 2004,
@@ -217,7 +217,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/child-sleep.png",
+    "image": "https://i.ibb.co.com/pj67c6n0/demoApp5.webp",
     "title": "Child Sleep Sounds",
     "companyName": "CalmKids Studio",
     "id": 2005,
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/photo-editor.png",
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
     "title": "Snap & Edit",
     "companyName": "PixelForge Labs",
     "id": 2006,
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/voice-translator.png",
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
     "title": "Voice Translator",
     "companyName": "SpeakEasy Tech",
     "id": 2007,
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/meditation-hub.png",
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
     "title": "Meditation Hub",
     "companyName": "ZenFlow Studios",
     "id": 2008,
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/daily-quotes.png",
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
     "title": "Daily Quotes",
     "companyName": "Inspirar Media",
     "id": 2009,
@@ -307,7 +307,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/music-stream.png",
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
     "title": "BeatFlow Music",
     "companyName": "MelodyMaker Inc.",
     "id": 2010,
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/running-tracker.png",
+    "image": "https://i.ibb.co.com/pj67c6n0/demoApp5.webp",
     "title": "RunTracker",
     "companyName": "ActiveLife Tools",
     "id": 2011,
@@ -343,7 +343,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/finance-tracker.png",
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
     "title": "Finance Tracker",
     "companyName": "MoneyWise LLC",
     "id": 2012,
@@ -361,7 +361,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/habit-builder.png",
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
     "title": "Habit Builder",
     "companyName": "BetterSelf Apps",
     "id": 2013,
@@ -379,7 +379,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/social-lite.png",
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
     "title": "Social Lite",
     "companyName": "ConnectIt Corp",
     "id": 2014,
@@ -397,7 +397,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/drawing-pad.png",
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
     "title": "Drawing Pad",
     "companyName": "Artistry Tech",
     "id": 2015,
@@ -415,7 +415,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/flashlight-plus.png",
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
     "title": "Flashlight Plus",
     "companyName": "BrightLight Apps",
     "id": 2016,
@@ -433,7 +433,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/water-reminder.png",
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
     "title": "Hydro Reminder",
     "companyName": "Wellness Time Co",
     "id": 2017,
@@ -451,7 +451,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/cooking-recipes.png",
+    "image": "https://i.ibb.co.com/pj67c6n0/demoApp5.webp",
     "title": "CookMaster Recipes",
     "companyName": "Tasty Studios",
     "id": 2018,
@@ -469,7 +469,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/voice-memo.png",
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
     "title": "Voice Memo Plus",
     "companyName": "QuickRecord Labs",
     "id": 2019,
@@ -487,7 +487,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/traffic-alerts.png",
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
     "title": "Traffic Alerts",
     "companyName": "CitySmart Tech",
     "id": 2020,
@@ -505,7 +505,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/parking-finder.png",
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
     "title": "ParkEasy",
     "companyName": "UrbanSolutions",
     "id": 2021,
@@ -523,7 +523,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/language-games.png",
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
     "title": "WordPlay",
     "companyName": "MindGames Inc.",
     "id": 2022,
@@ -541,7 +541,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/podcast-player.png",
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
     "title": "Podcast Player",
     "companyName": "Audible Waves",
     "id": 2023,
@@ -559,7 +559,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/shopping-deals.png",
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
     "title": "Daily Deals",
     "companyName": "Bargain Hunters",
     "id": 2024,
@@ -577,7 +577,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/diary-app.png",
+    "image": "https://i.ibb.co.com/pj67c6n0/demoApp5.webp",
     "title": "My Diary",
     "companyName": "Reflection Apps",
     "id": 2025,
@@ -595,7 +595,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/plant-care.png",
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
     "title": "Plant Care Guide",
     "companyName": "GreenThumb Tech",
     "id": 2026,
@@ -613,7 +613,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/music-creator.png",
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
     "title": "BeatMaker Studio",
     "companyName": "SoundForge Labs",
     "id": 2027,
@@ -631,7 +631,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/expense-split.png",
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
     "title": "Split Bill Buddy",
     "companyName": "Shared Costs Inc.",
     "id": 2028,
@@ -649,7 +649,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/reading-tracker.png",
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
     "title": "ReadTrack",
     "companyName": "BookWorm Soft",
     "id": 2029,
@@ -667,7 +667,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/trivia-games.png",
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
     "title": "Trivia Blitz",
     "companyName": "QuizMasters",
     "id": 2030,

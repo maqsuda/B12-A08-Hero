@@ -1,12 +1,11 @@
-import React from "react";
-import Header from "../Components/Header/Header";
 import { Outlet } from "react-router";
 import Footer from "../Components/Footer/Footer";
+import Navbar from "../Components/Navbar/Navbar";
 
 const Root = () => {
   return (
     <div className="mx-auto">
-      <Header></Header>
+      <Navbar></Navbar>
       <Outlet></Outlet>
       <Footer></Footer>
     </div>
