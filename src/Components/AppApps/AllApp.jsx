@@ -24,12 +24,12 @@ const AllApp = ({ allAppPromise }) => {
 
         <div className="mt-2">
           <div className="flex gap-2 text-center items-center">
-            <CiSearch className="input-icon absolute mr-5" />
+            <CiSearch className="input-icon absolute mr-10" />
 
             <input
               type="text"
               placeholder="    Search App"
-              className="input-field border-1 border-gray-300 px-2 py-2 w-[300px] md:w-[500px]"
+              className="input-field border-1 border-gray-300 px-3 py-2 w-[300px] md:w-[500px]"
             />
           </div>
         </div>
